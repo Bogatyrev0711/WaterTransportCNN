@@ -83,14 +83,14 @@ model.predict(image)
 ship_cnn_model.keras
 Этот файл можно загрузить и использовать без повторного обучения.
 
- 12. Как запустить проект
-1. Установить зависимости
+ 12. Как запустить проект:
+ - Установить зависимости
 pip install tensorflow
 pip install numpy
 pip install matplotlib
-2. Запустить обучение
+- Запустить обучение
 python main.py
-3. Проверка модели
+- Проверка модели
 python predict.py
  
  
